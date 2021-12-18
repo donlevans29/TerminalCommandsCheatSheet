@@ -1,4 +1,5 @@
 <h1>Comprehensive Terminal Commands Cheatsheet</h1>
+<h3> …or create a new repository on the command line </h3>
 <p> 
 echo "# TerminalCommandsCheatSheet" >> README.md</br>
 git init</br>
