@@ -18,6 +18,8 @@ git push -u origin main
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+
+<h2>WINDOWS</h2>
 donle@DESKTOP-KE0S180 MINGW64 /
 $ git config --global user.name "Javascript Don"
 
