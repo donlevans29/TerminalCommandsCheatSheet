@@ -33,3 +33,6 @@ $ git config –globlal core.editor “xyzsoftware.exe”
 donle@DESKTOP-KE0S180 MINGW64 /
 $ git config --global color.ui true
 
+
+<h3>INITILIZE A DIRECTORY</h3>
+git init to initialize a project on your enviroment already open and created
