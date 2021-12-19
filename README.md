@@ -17,3 +17,17 @@ git push -u origin main
 
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+donle@DESKTOP-KE0S180 MINGW64 /
+$ git config --global user.name "Javascript Don"
+
+
+donle@DESKTOP-KE0S180 MINGW64 /
+$ git config --global user.email "donlevans29@gmail.com"
+
+
+$ git config –globlal core.editor “xyzsoftware.exe”
+
+donle@DESKTOP-KE0S180 MINGW64 /
+$ git config --global color.ui true
+
