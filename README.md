@@ -55,7 +55,8 @@ clear command clears out the current terminal window and takes back the prompt t
 cp is used to copy files from one directory to another.
 scp is the same as the cp but is used to copy files between remote servers.
 mv is used to move files from one directory to another.
-
+git add . (saves changes)
+git commit -m"message with the commit" (commit to the repository)
 
 <h3>INITILIZE A DIRECTORY</h3>
 git init to initialize a project on your enviroment already open and created
