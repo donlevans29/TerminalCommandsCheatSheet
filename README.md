@@ -60,3 +60,8 @@ git commit -m"message with the commit" (commit to the repository)
 
 <h3>INITILIZE A DIRECTORY</h3>
 git init to initialize a project on your enviroment already open and created
+git clone (clones a repo)
+cd --> changes directory
+   --> drag and drop folder path into terminal
+npm i --> another way to say install
+code . --> opens project into Visual Studio Code
