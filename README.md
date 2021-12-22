@@ -79,17 +79,21 @@ git add . (saves changes)
 git commit -m"message with the commit" (commit to the repository)
 
 <h3>INITILIZE A DIRECTORY</h3>
-git init to initialize a project on your enviroment already open and created
-git clone (clones a repo)
-cd --> changes directory
---> drag and drop folder path into terminal
-npm i --> another way to say install
-code . --> opens project into Visual Studio Code
-
-git status (shows the status of all the files)
-git diff [filename] will show the difference in green of the actual changes
-git tracks changes via the hash#
-every new commit of the file shows a refernce to the preceding it.
-if you commit without using the -m it will open a vin but when you hit enter it just keeps adding a new line
-it can be confusing on how to commit the message so what you do is.
-" Press Esc and then type :wq to save and exit."
+<ul>
+  <li>git init to initialize a project on your enviroment already open and created </li>
+  <li>git clone (clones a repo) </li>
+  <li>cd --> changes directory  </li>
+  <li> --> drag and drop folder path into terminal </li>
+  <li> npm i --> another way to say install</li>
+  <li> code . --> opens project into Visual Studio Code </li>
+  <li> git status (shows the status of all the files) </li>
+  <li> git diff [filename] will show the difference in green of the actual changes</li>
+  <li> git tracks changes via the hash# </li>
+  <li> every new commit of the file shows a refernce to the preceding it. </li>
+  <li> if you commit without using the -m it will open a vin but when you hit enter it just keeps adding a new line </li>
+  <li> it can be confusing on how to commit the message so what you do is. </li>
+  <li> " Press Esc and then type :wq to save and exit." </li>
+  <li> rm filename.ext (to remove a file) </li>
+  <li> </li>
+  
+</ul>
