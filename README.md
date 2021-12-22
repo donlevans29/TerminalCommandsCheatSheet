@@ -68,6 +68,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
   <li> it can be confusing on how to commit the message so what you do is. </li>
   <li> " Press Esc and then type :wq to save and exit." </li>
   <li> rm filename.ext (to remove a file) </li>
-  <li> </li>
+  <li> mv (moves the file is git's way of renaming a file. If you manually rename the file git will see it as deleted and new name as added --> if you git status it would show that the files are similar 50% sameness. If you want to user terminal to rename you use git mv filename.ext newfilename.ext. now if you do a git status it would show a rename)</li>
+   <li> </li>
   
 </ul>
