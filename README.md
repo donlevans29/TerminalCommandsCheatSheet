@@ -50,33 +50,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
     <li>git commit -m"message with the commit" (commit to the repository) </li>
   </ul>
 </p>
-pwd (present working directory)
-ls (list the content of the current directory)
-cd (change directory)
-chmod (change mode and accessiblity)
-mkdir (make directories)
-echo (prints out the privded parameters/string to the standard output)
-touch (changes the file access and modifications times for a provided file)
-vim (open specified file with vim editor)
-nano (lets yo uopen the file with nano editor Pico editor)
-cat ( concatenate and print the contents of files)
-grep ( search for a pattern in the specified file and trunts all the lines that match the given file)
-diff (used to comparie given files line by line and print sout ht lines that are different in each file)
-head (prints out the content of the file from the beginning of the file a per the given flags)
-tail (print sout the conten to the file fromt he end of the file as per the given flags)
-rm (remove directory entries. deletes the files for the given filename/path. can also be used tjo delete directories
-based on the flags that you provide.
-clear command clears out the current terminal window and takes back the prompt to the top position of the terminal
-window.
-> is used to redirect the output from a command to be passed to another file. This will overwrite the content of the
-file.
->> is used to redirect the output from a command to be passed to another file. This will append to the content of the
-file.
-cp is used to copy files from one directory to another.
-scp is the same as the cp but is used to copy files between remote servers.
-mv is used to move files from one directory to another.
-git add . (saves changes)
-git commit -m"message with the commit" (commit to the repository)
+
 
 <h3>INITILIZE A DIRECTORY</h3>
 <ul>
