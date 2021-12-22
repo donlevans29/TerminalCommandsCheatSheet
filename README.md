@@ -65,3 +65,12 @@ cd --> changes directory
    --> drag and drop folder path into terminal
 npm i --> another way to say install
 code . --> opens project into Visual Studio Code
+
+git status (shows the status of all the files)
+git diff [filename] will show the difference in green of the actual changes
+git tracks changes via the hash#
+every new commit of the file shows a refernce to the preceding it.
+if you commit without using the -m it will open a vin but when you hit enter it just keeps adding a new line
+ it can be confusing on how to commit the message so what you do is.
+  " Press Esc and then type :wq to save and exit."
+
