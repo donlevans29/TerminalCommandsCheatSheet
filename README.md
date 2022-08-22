@@ -83,4 +83,9 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 </ul>
 
+To check node  versions = 
+![image](https://user-images.githubusercontent.com/18158428/185957827-61bc1513-aae1-45d9-9048-63f0c4228981.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/18158428/185957082-32d525b4-80f1-4ac6-adfa-1782460cfa32.png)
