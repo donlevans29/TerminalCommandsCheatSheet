@@ -79,5 +79,6 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 <ul>
   <li>git clone --bare   </li>
   <li>git clone --bool   </li>
+  <li>git branch  You typically can use the arrow keys to scroll up or down, and can exit by pressing q. Share. </li>
 
 </ul>
