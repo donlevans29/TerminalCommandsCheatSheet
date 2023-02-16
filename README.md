@@ -83,9 +83,10 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 </ul>
 
-<h4>Common Server Terminal Commands</h4>
+<h4>Common Node Package Manager(NPM) Terminal Commands When Starting An Express Server from Scratch </h4>
 <ul>
-  <li> ![image](https://user-images.githubusercontent.com/18158428/219387014-49a0ec35-2af1-4782-bf57-849b753af3a1.png) </li>
+  <li> npm  </li>
+  <li> npm install express  or npm i express </li>
   
 </ul>
 
