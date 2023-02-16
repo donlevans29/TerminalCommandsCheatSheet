@@ -83,6 +83,12 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 </ul>
 
+<h4>Common Server Terminal Commands</h4>
+<ul>
+  <li> ![image](https://user-images.githubusercontent.com/18158428/219387014-49a0ec35-2af1-4782-bf57-849b753af3a1.png) </li>
+  
+</ul>
+
 To check node  versions = 
 ![image](https://user-images.githubusercontent.com/18158428/185957827-61bc1513-aae1-45d9-9048-63f0c4228981.png)
 
